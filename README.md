@@ -4,7 +4,7 @@ Hi 👋 My name is Jakub Cerovsky
 Full-Stack Developer
 --------------------
 
-I am a full-stack developer specialising in modernising legacy code for a multinational strata and insurance company. My focus is on enhancing performance, scalability, and maintainability.
+I am a full-stack developer specialising in modernising legacy code for a multinational strata and insurance company. My focus is on enhancing user experience, performance and maintainability.
 
 *   🌍  I'm based in Australia
 *   🖥️  See my portfolio at [GitHub](http://github.com/Jcerovsky)
