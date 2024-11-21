@@ -7,7 +7,6 @@ Full-Stack Developer
 I am a full-stack developer specialising in modernising legacy code for a multinational strata and insurance company. My focus is on enhancing user experience, performance and maintainability.
 
 *   🌍  I'm based in Australia
-*   🖥️  See my portfolio at [GitHub](http://github.com/Jcerovsky)
 *   ✉️  You can contact me at [jcerovsky8@gmail.com](mailto:jcerovsky8@gmail.com)
 *   🤝  I'm open to collaborating on projects, with expertise in React, Next.js, Node.js, and web development.
 
