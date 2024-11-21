@@ -8,7 +8,7 @@ I am a full-stack developer specialising in modernising legacy code for a multin
 
 *   🌍  I'm based in Australia
 *   ✉️  You can contact me at [jcerovsky8@gmail.com](mailto:jcerovsky8@gmail.com)
-*   🤝  I'm open to collaborating on projects, with expertise in React, Next.js, Node.js, and web development.
+*   🤝  I'm open to collaborating on projects, with expertise in modern web development.
 
 ### Skills 
 
